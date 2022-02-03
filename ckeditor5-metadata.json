@@ -1,0 +1,11 @@
+{
+	"plugins": [
+		{
+			"name": "qiniu upload adapter",
+			"className": "QiniuUploadAdapter",
+			"description": "An image upload tool. ",
+			"docs": "",
+			"path": "src/adapters/qiniuUploadAdapter.js"
+		}
+	]
+}
