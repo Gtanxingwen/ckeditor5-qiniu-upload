@@ -22,11 +22,11 @@
   },
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "homepage": "https://github.com/Gtanxingwen/ckeditor5-qiniu-upload",
+  "bugs": "https://github.com/Gtanxingwen/ckeditor5-qiniu-upload/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
+    "url": "git@github.com:Gtanxingwen/ckeditor5-qiniu-upload.git",
     "directory": "packages/ckeditor5-upload"
   },
   "files": [
