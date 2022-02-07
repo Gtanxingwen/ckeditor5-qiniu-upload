@@ -18,7 +18,7 @@ ClassicEditor.builtinPlugins = [
 
 ClassicEditor.defaultConfig = {
     qiniuUpload: {
-		imgPrefix: 'https://assets.diningcity.cn/',
+		imgPrefix: 'https://xxxx.cn/',
 	},
 }
 
